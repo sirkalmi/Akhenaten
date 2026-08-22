@@ -1043,7 +1043,7 @@ localization_hu = [
   { key: "#recruiter_need_workers", text: "Elérhető munkások nélkül lehetetlen a munkám." }
   { key: "#recruiter_gods_are_angry", text: "Remélem, az istenek nem zúdítják ránk haragjukat. Többet kellene törődnünk velük." }
   { key: "#recruiter_enemies_attack", text: "Az ellenség bármikor támadhat. Rossz a hírnevünk, és senki sem tisztel minket." }
-  { key: "#recruiter_i_looking_for_the_workers", text: "Ennyi munkaképes ember munkanélküliként mellett a feladatom könnyű kellene legyen." }
+  { key: "#recruiter_i_looking_for_the_workers", text: "Ennyi munkaképes ember van munka nélkül, mégis milyen nehéz munkást találni." }
   { key: "#recruiter_boring", text: "Unalmas itt. Bárcsak több szórakoztatót alkalmazhatnék." }
   { key: "#recruiter_living_here", text: "Nem bánok itt élni. Bizonyára lehetne sokkal rosszabb is." }
   { key: "#recruiter_city_is_amazing", text: "Ez a város a legjobb!" }
